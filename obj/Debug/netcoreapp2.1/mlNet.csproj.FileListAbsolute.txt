@@ -1,0 +1,11 @@
+/home/eberalves/DotCoreProjects/mlNet/bin/Debug/netcoreapp2.1/mlNet.deps.json
+/home/eberalves/DotCoreProjects/mlNet/bin/Debug/netcoreapp2.1/mlNet.runtimeconfig.json
+/home/eberalves/DotCoreProjects/mlNet/bin/Debug/netcoreapp2.1/mlNet.runtimeconfig.dev.json
+/home/eberalves/DotCoreProjects/mlNet/bin/Debug/netcoreapp2.1/mlNet.dll
+/home/eberalves/DotCoreProjects/mlNet/bin/Debug/netcoreapp2.1/mlNet.pdb
+/home/eberalves/DotCoreProjects/mlNet/obj/Debug/netcoreapp2.1/mlNet.csprojAssemblyReference.cache
+/home/eberalves/DotCoreProjects/mlNet/obj/Debug/netcoreapp2.1/mlNet.csproj.CoreCompileInputs.cache
+/home/eberalves/DotCoreProjects/mlNet/obj/Debug/netcoreapp2.1/mlNet.AssemblyInfoInputs.cache
+/home/eberalves/DotCoreProjects/mlNet/obj/Debug/netcoreapp2.1/mlNet.AssemblyInfo.cs
+/home/eberalves/DotCoreProjects/mlNet/obj/Debug/netcoreapp2.1/mlNet.dll
+/home/eberalves/DotCoreProjects/mlNet/obj/Debug/netcoreapp2.1/mlNet.pdb
